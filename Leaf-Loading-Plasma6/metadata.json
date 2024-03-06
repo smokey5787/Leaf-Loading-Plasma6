@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "michaelcurtis5787@gmail.com",
+                "Name": "Smokey"
+            }
+        ],
+        "Category": "",
+        "Description": "Leafy Loading Screen",
+        "Id": "Leaf-Loading-Plasma6",
+        "License": "GPLv3",
+        "Name": "Leaf Loading",
+        "Website": "https://github.com/smokey5787/Leaf-Loading-Plasma6"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
